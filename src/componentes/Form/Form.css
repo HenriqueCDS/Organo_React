@@ -1,0 +1,28 @@
+.formulario{
+ display: flex;
+ justify-content: center;
+ margin: 80px 0;
+}
+
+
+.formulario form {
+    max-width: 80%;
+    background: #F7F7F7;  
+    padding: 36px 64px;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+}
+
+.formulario h2 {
+    width: 806px;
+    top: 669px;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 43px;
+    display: flex;
+    color: #212121;
+}
